@@ -20,5 +20,6 @@ Base SDL 5.1
 Target 3.12
 
 Build for Release
+samrth dubey
 
 code only builds on armv7 devices.
